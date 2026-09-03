@@ -1,4 +1,4 @@
-This is a template to help you get started with the Individual Datasheet GitHub Report. Use this template to help guide your team through the initial setup process. You will see ways to get results. When there are multiple methods, choose the method that works for you. There could be other ways to accomplish the same thing, but they are not as guaranteed to work.
+Steve This is a template to help you get started with the Individual Datasheet GitHub Report. Use this template to help guide your team through the initial setup process. You will see ways to get results. When there are multiple methods, choose the method that works for you. There could be other ways to accomplish the same thing, but they are not as guaranteed to work.
 
 You <ins>will need to add and modify files for the different individual assignments. **THIS template is <ins>ALMOST outlines</ins>** what you will need to get you the External Review.
 # Remove ALL ITEMS not current in the Appendix before submitting report Check Points!
